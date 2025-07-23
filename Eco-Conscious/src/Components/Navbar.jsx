@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { FaRegUser, FaRegHeart, FaSearch } from "react-icons/fa";
-import logo from "../assets/logo.png";
+import logo from "../public/logo.png";
 import { FiShoppingBag } from "react-icons/fi";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 
